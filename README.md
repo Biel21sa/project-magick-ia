@@ -24,7 +24,15 @@ magick-ia/
 │ │ ├── responsivo.css
 │ │ └── reset.css
 │ ├── images/
-│ │ └── [imagens das cartas e logo]
+│ │ ├── logo.png
+│ │ ├── seta-para-baixo.png
+│ │ ├── preview.png
+│ │ ├── carta-arkanon.png
+│ │ ├── carta-lymara.png
+│ │ ├── carta-kaelthar.png
+│ │ ├── carta-maldrik.png
+│ │ ├── carta-drahven.png
+│ │ └── carta-nyxsombra.png
 │ └── js/
 │ └── index.js
 
