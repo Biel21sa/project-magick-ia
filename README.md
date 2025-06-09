@@ -15,6 +15,7 @@ Bem-vindo ao **Magick IA**, uma interface de loja fictícia onde é possível vi
 
 ## 📁 Estrutura do Projeto
 
+```
 magick-ia/
 ├── index.html
 ├── README.md
@@ -35,6 +36,7 @@ magick-ia/
 │ │ └── carta-nyxsombra.png
 │ └── js/
 │ └── index.js
+```
 
 ## 🛠️ Tecnologias Utilizadas
 
